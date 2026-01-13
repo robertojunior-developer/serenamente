@@ -1,0 +1,16 @@
+# Sistema
+Thumbs.db
+Desktop.ini
+
+# IDE/Editor
+.vscode/
+.idea/
+
+# Logs e temporários
+*.log
+*.tmp
+
+# Builds (se existirem)
+dist/
+build/
+out/
